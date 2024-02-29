@@ -23,13 +23,11 @@ I'm a backend software engineer with a passion for working on complex technologi
   - Created a suite of tools to allow for on-chain market makers to replicate various AMM liquidity distribution curves with limit orders _[🔗 Link](https://github.com/aori-io/xyk)_
 
 ### 🌱 I’m currently learning
-- ZK-Proofs (+ NoirLang)
 - Kubernetes
-- Quantum Computation 
 
 ### 🤝 How to Reach Me
 - **Twitter**: [@50shadesofgwei_](https://twitter.com/50shadesofgwei_)
-- **Email**: [jonofeasby4@gmail.com]
+- **Email**: jonofeasby4@gmail.com
 
 ---
 
