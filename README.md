@@ -27,6 +27,8 @@ I'm a backend software engineer with a passion for working on complex technologi
 
 ### 🤝 How to Reach Me
 - **Twitter**: [@50shadesofgwei_](https://twitter.com/50shadesofgwei_)
+- **Telegram** @JonathanFeasby
+- **Discord** 50shadesofgwei (will reply fastest here)
 - **Email**: jonofeasby4@gmail.com
 
 ---
