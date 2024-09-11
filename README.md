@@ -21,6 +21,10 @@ I'm a backend software engineer with a passion for working on complex technologi
 - **Backend Software Engineer**, Aori (Q2 '23 -> Q4 '23)
   - Built out a comprehensive TypeScript SDK focused on Maker/Taker integrations, including full documentation _[🔗 Link](https://github.com/aori-io/aori-sdk-ts)_
   - Created a suite of tools to allow for on-chain market makers to replicate various AMM liquidity distribution curves with limit orders _[🔗 Link](https://github.com/aori-io/xyk)_
+- **Lead Software Engineer**, OS Funding Rate Arbitrage Searcher (Q1 '24 -> Present)
+  - Accepted grants from both GMX and Synthetix protocols to design and build an open-source bot to identify and execute upon funding rate inefficiencies across exchanges.
+  - Also lead development on a private, for profit version of the program, for which I am in the process of raising capital. To see profitability reports or to express interest in being a liquidity provider, please reach out via the contact information below.
+
 
 ### 🌱 I’m currently learning
 - Kubernetes
@@ -28,7 +32,7 @@ I'm a backend software engineer with a passion for working on complex technologi
 ### 🤝 How to Reach Me
 - **Twitter**: [@50shadesofgwei_](https://twitter.com/50shadesofgwei_)
 - **Telegram** @JonathanFeasby
-- **Discord** 50shadesofgwei (will reply fastest here)
+- **Discord** 50shadesofgwei (will reply fastest here, although please send a message saying you've come from this page)
 - **Email**: jonofeasby4@gmail.com
 
 ---
