@@ -1,7 +1,7 @@
 ### Hello, I'm Jonathan 👋
 
 ## About Me
-I'm a backend software engineer with a passion for working on complex technologies, currently focused on the Ethereum stack and programmatic trading. I'm based out of England (note: this changes a lot but is accurate as of time of writing), I'm fluent in Spanish and am learning Russian, and outside of tech I'm a competitive chess player and play both the guitar and piano.
+I'm a backend software engineer with a passion for working on complex technologies, currently focused on the Ethereum stack and programmatic trading. I'm based out of Portugal (note: this changes a lot but is accurate as of time of writing), I'm fluent in Spanish and am learning Russian, and outside of tech I'm a competitive chess player and play both the guitar and piano.
 
 ### 🛠️ Tools and Technologies
 - **Programming Languages**: Rust, TypeScript, Python
